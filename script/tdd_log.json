@@ -78,9 +78,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "069988a33a1b5b4d1d971306da4fc7ed0da2618c",
     "commitName": "feat: jugador 1 anota 1 vez muestra 15 - Love",
     "commitTimestamp": 1788272706855,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788272839766,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 1 anota 1 vez muestra 15 - Love mejorado",
+    "commitTimestamp": 1788272862855,
+    "testId": 2
   }
 ]
