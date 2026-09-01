@@ -32,9 +32,55 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "bac31bce28dd282ea3577b9a51fd8e873d347cf3",
     "commitName": "feat: iniciar partido en Love - Love",
     "commitTimestamp": 1788272217301,
     "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1788272381412,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1788272462723,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1788272559628,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788272570932,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788272686774,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 1 anota 1 vez muestra 15 - Love",
+    "commitTimestamp": 1788272706855,
+    "testId": 1
   }
 ]
