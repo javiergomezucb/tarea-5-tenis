@@ -228,9 +228,39 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9e6b1ca3a12ba3312d4abaf4c671dae7709acccc",
     "commitName": "feat: jugador 2 anota 2 veces muestra Love - 30",
     "commitTimestamp": 1788435047572,
     "testId": 6
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1788435089004,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1788435133047,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1788435147910,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 2 anota 3 veces muestra Love - 40",
+    "commitTimestamp": 1788435162674,
+    "testId": 7
   }
 ]
