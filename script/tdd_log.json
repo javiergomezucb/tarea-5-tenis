@@ -280,9 +280,31 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0adfa02a7fd0f446758c54c761795020c2237daa",
     "commitName": "feat: jugador 2 anota 4 veces muestra Game for Player 2",
     "commitTimestamp": 1788435246630,
     "testId": 8
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1788435274811,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788435438019,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: marcador 30 - 15 con condicionales directos",
+    "commitTimestamp": 1788435453386,
+    "testId": 9
   }
 ]

@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0adfa02a7fd0f446758c54c761795020c2237daa",
     "author": "javichosGIT",
     "commit": {
       "date": "2026-09-03T11:34:05.000Z",
       "message": "feat: jugador 2 anota 4 veces muestra Game for Player 2",
-      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/0adfa02a7fd0f446758c54c761795020c2237daa"
     },
     "stats": {
       "total": 12,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "javichosGIT",
+    "commit": {
+      "date": "2026-09-03T11:37:32.000Z",
+      "message": "feat: marcador 30 - 15 con condicionales directos",
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 16,
+      "deletions": 3,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }
