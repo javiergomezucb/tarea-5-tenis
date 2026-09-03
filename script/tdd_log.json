@@ -92,9 +92,79 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f8d6caf1535a9c571eb00259bb73a9947703291f",
     "commitName": "feat: jugador 1 anota 1 vez muestra 15 - Love mejorado",
     "commitTimestamp": 1788272862855,
     "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1788272960658,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1788272999646,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1788273033914,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1788273085361,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1788434476778,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1788434565503,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1788434608053,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1788434619669,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 1 anota 3 veces muestra 40 - Love",
+    "commitTimestamp": 1788434664043,
+    "testId": 3
   }
 ]

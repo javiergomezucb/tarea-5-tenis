@@ -9,10 +9,19 @@ class Tennis {
     this.puntosJ1++;
   }
 
+  jugador2Anota() {
+    this.puntosJ2++;
+  }
 
   obtenerScore() {
     if (this.puntosJ1 === 1) {
       return "15 - Love";
+    }
+    if (this.puntosJ1 === 2) {
+      return "30 - Love";
+    }
+    if (this.puntosJ1 === 3) {
+      return "40 - Love";
     }
     return "Love - Love";
   }
