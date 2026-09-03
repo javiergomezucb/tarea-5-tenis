@@ -162,9 +162,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a764223ad3d25635019dfd19357d2507665decfc",
     "commitName": "feat: jugador 1 anota 3 veces muestra 40 - Love",
     "commitTimestamp": 1788434664043,
     "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1788434754054,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1788434775969,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 1 anota 4 veces muestra Game for Player 1",
+    "commitTimestamp": 1788434792781,
+    "testId": 4
   }
 ]

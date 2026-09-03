@@ -14,14 +14,17 @@ class Tennis {
   }
 
   obtenerScore() {
-    if (this.puntosJ1 === 1) {
-      return "15 - Love";
+    if (this.puntosJ1 === 4) {
+      return "Game for Player 1";
+    }
+    if (this.puntosJ1 === 3) {
+      return "40 - Love";
     }
     if (this.puntosJ1 === 2) {
       return "30 - Love";
     }
-    if (this.puntosJ1 === 3) {
-      return "40 - Love";
+    if (this.puntosJ1 === 1) {
+      return "15 - Love";
     }
     return "Love - Love";
   }
