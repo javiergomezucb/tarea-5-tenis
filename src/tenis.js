@@ -27,6 +27,9 @@ class Tennis {
       return "15 - Love";
     }
 
+    if (this.puntosJ2 === 4) {
+      return "Game for Player 2";
+    }
     if (this.puntosJ2 === 3) {
       return "Love - 40";
     }
