@@ -26,6 +26,11 @@ class Tennis {
     if (this.puntosJ1 === 1) {
       return "15 - Love";
     }
+
+    if (this.puntosJ2 === 1) {
+      return "Love - 15";
+    }
+
     return "Love - Love";
   }
 }

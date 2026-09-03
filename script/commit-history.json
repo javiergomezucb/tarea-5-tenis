@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "9741348c8b9d3774cd35e21fb51e9087c0baf3ba",
     "author": "javichosGIT",
     "commit": {
       "date": "2026-09-03T11:26:31.000Z",
       "message": "feat: jugador 1 anota 4 veces muestra Game for Player 1",
-      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/9741348c8b9d3774cd35e21fb51e9087c0baf3ba"
     },
     "stats": {
       "total": 20,
@@ -91,6 +91,25 @@
     },
     "coverage": 92.86,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "javichosGIT",
+    "commit": {
+      "date": "2026-09-03T11:27:48.000Z",
+      "message": "feat: jugador 2 anota 1 vez muestra Love - 15",
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
