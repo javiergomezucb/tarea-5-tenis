@@ -190,12 +190,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7375f5dc48d6769cee5bccb07927e3205b996e91",
     "author": "javichosGIT",
     "commit": {
       "date": "2026-09-03T11:38:31.000Z",
       "message": "feat: regla de Deuce con 3 anotaciones por lado",
-      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/7375f5dc48d6769cee5bccb07927e3205b996e91"
     },
     "stats": {
       "total": 15,
@@ -205,6 +205,25 @@
     },
     "coverage": 100,
     "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "javichosGIT",
+    "commit": {
+      "date": "2026-09-03T11:39:29.000Z",
+      "message": "feat: ventaja para jugador 1 con 4 a 3 puntos",
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 16,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 13,
     "failed_tests": 0,
     "conclusion": "success"
   }

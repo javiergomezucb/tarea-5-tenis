@@ -324,9 +324,31 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7375f5dc48d6769cee5bccb07927e3205b996e91",
     "commitName": "feat: regla de Deuce con 3 anotaciones por lado",
     "commitTimestamp": 1788435512455,
     "testId": 10
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 1,
+    "numTotalTests": 13,
+    "timestamp": 1788435550908,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1788435561261,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: ventaja para jugador 1 con 4 a 3 puntos",
+    "commitTimestamp": 1788435570121,
+    "testId": 11
   }
 ]

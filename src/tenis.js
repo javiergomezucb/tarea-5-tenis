@@ -18,6 +18,10 @@ class Tennis {
       return "Deuce";
     }
 
+    if (this.puntosJ1 === 4 && this.puntosJ2 === 3) {
+      return "Advantage for Player 1";
+    }
+
     if (this.puntosJ1 === 4) {
       return "Game for Player 1";
     }
