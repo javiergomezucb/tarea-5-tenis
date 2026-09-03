@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d81c2a6edfc788fac616d3ef2915153526da8a60",
     "author": "javichosGIT",
     "commit": {
       "date": "2026-09-03T11:37:32.000Z",
       "message": "feat: marcador 30 - 15 con condicionales directos",
-      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/d81c2a6edfc788fac616d3ef2915153526da8a60"
     },
     "stats": {
       "total": 19,
@@ -186,6 +186,25 @@
     },
     "coverage": 100,
     "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "javichosGIT",
+    "commit": {
+      "date": "2026-09-03T11:38:31.000Z",
+      "message": "feat: regla de Deuce con 3 anotaciones por lado",
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 15,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 12,
     "failed_tests": 0,
     "conclusion": "success"
   }

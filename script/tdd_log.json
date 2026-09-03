@@ -302,9 +302,31 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d81c2a6edfc788fac616d3ef2915153526da8a60",
     "commitName": "feat: marcador 30 - 15 con condicionales directos",
     "commitTimestamp": 1788435453386,
     "testId": 9
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1788435488836,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1788435500661,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: regla de Deuce con 3 anotaciones por lado",
+    "commitTimestamp": 1788435512455,
+    "testId": 10
   }
 ]
