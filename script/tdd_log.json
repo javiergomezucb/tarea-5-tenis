@@ -368,9 +368,39 @@
     "testId": 12
   },
   {
-    "commitId": "HEAD",
+    "commitId": "69ca98cfc79023afdef6591fe6b470c9c27dc6ec",
     "commitName": "feat: ventaja para jugador 2 con 3 a 4 puntos",
     "commitTimestamp": 1788435620881,
     "testId": 12
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 1,
+    "numTotalTests": 15,
+    "timestamp": 1788435655590,
+    "success": false,
+    "testId": 13
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 1,
+    "numTotalTests": 15,
+    "timestamp": 1788435664594,
+    "success": false,
+    "testId": 13
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 0,
+    "numTotalTests": 15,
+    "timestamp": 1788435676644,
+    "success": true,
+    "testId": 13
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 1 gana el game anotando dos veces seguidas tras deuce",
+    "commitTimestamp": 1788435684622,
+    "testId": 13
   }
 ]

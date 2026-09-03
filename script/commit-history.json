@@ -228,12 +228,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "69ca98cfc79023afdef6591fe6b470c9c27dc6ec",
     "author": "javichosGIT",
     "commit": {
       "date": "2026-09-03T11:40:19.000Z",
       "message": "feat: ventaja para jugador 2 con 3 a 4 puntos",
-      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/69ca98cfc79023afdef6591fe6b470c9c27dc6ec"
     },
     "stats": {
       "total": 17,
@@ -243,6 +243,25 @@
     },
     "coverage": 100,
     "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "javichosGIT",
+    "commit": {
+      "date": "2026-09-03T11:41:23.000Z",
+      "message": "feat: jugador 1 gana el game anotando dos veces seguidas tras deuce",
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 23,
+      "additions": 23,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 15,
     "failed_tests": 0,
     "conclusion": "success"
   }

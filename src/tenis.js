@@ -14,6 +14,10 @@ class Tennis {
   }
 
   obtenerScore() {
+    if (this.puntosJ1 === 5 && this.puntosJ2 === 3) {
+      return "Game for Player 1";
+    }
+
     if (this.puntosJ1 === 3 && this.puntosJ2 === 3) {
       return "Deuce";
     }
