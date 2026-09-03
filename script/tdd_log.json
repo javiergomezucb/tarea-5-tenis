@@ -206,9 +206,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "aed84453015aff9a94c83455505a5f3465cf1a40",
     "commitName": "feat: jugador 2 anota 1 vez muestra Love - 15",
     "commitTimestamp": 1788434869127,
     "testId": 5
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1788434941391,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1788435023596,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 2 anota 2 veces muestra Love - 30",
+    "commitTimestamp": 1788435047572,
+    "testId": 6
   }
 ]
