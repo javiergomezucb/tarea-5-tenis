@@ -266,17 +266,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3031a436bb25041b9366f8f72793b022e4c45eeb",
     "author": "javichosGIT",
     "commit": {
       "date": "2026-09-03T11:44:13.000Z",
       "message": "feat: interfaz grafica conectada con la clase Tennis",
-      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/3031a436bb25041b9366f8f72793b022e4c45eeb"
     },
     "stats": {
       "total": 65,
       "additions": 43,
       "deletions": 22,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "javichosGIT",
+    "commit": {
+      "date": "2026-09-03T12:28:30.000Z",
+      "message": "feat: interfaz grafica conectada con la clase Tennis final",
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 56,
+      "additions": 17,
+      "deletions": 39,
       "date": "2026-09-03"
     },
     "coverage": 100,
