@@ -1,18 +1,27 @@
 <!DOCTYPE html>
-<html xml:lang="es">
+<html lang="es">
   <head>
-    <title>partido de tenis</title>
+    <meta charset="UTF-8" />
+    <title>Partido de Tenis</title>
   </head>
   <body>
-    <h1>partido de tenis</h1>
-    <form id="sumar-form">
-      <label for="primer-numero">Primer número:</label>
-      <input type="number" id="primer-numero" />
-      <label for="segundo-numero">Segundo número:</label>
-      <input type="number" id="segundo-numero" />
-      <input type="submit" value="Sumar" id="sumar-button" />
-    </form>
-    <div id="resultado-div"></div>
+    <h1>Marcador de Tenis</h1>
+
+    <div id="marcador" style="font-size: 32px; font-weight: bold; margin: 20px 0;">
+      Love - Love
+    </div>
+
+    <div>
+      <button id="btn-jugador1" style="padding: 10px 15px; margin-right: 10px; cursor: pointer;">
+        Punto Jugador 1
+      </button>
+      <button id="btn-jugador2" style="padding: 10px 15px; margin-right: 10px; cursor: pointer;">
+        Punto Jugador 2
+      </button>
+      <button id="btn-reiniciar" style="padding: 10px 15px; cursor: pointer;">
+        Reiniciar Game
+      </button>
+    </div>
 
     <script type="module" src="./src/presenter.js"></script>
   </body>

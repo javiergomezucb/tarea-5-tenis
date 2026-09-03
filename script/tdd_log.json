@@ -398,9 +398,15 @@
     "testId": 13
   },
   {
-    "commitId": "HEAD",
+    "commitId": "598661aa8168cdc64f820060d5562297731aca86",
     "commitName": "feat: jugador 1 gana el game anotando dos veces seguidas tras deuce",
     "commitTimestamp": 1788435684622,
     "testId": 13
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: interfaz grafica conectada con la clase Tennis",
+    "commitTimestamp": 1788435855791,
+    "testId": 14
   }
 ]

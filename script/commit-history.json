@@ -247,17 +247,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "598661aa8168cdc64f820060d5562297731aca86",
     "author": "javichosGIT",
     "commit": {
       "date": "2026-09-03T11:41:23.000Z",
       "message": "feat: jugador 1 gana el game anotando dos veces seguidas tras deuce",
-      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/598661aa8168cdc64f820060d5562297731aca86"
     },
     "stats": {
       "total": 23,
       "additions": 23,
       "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "javichosGIT",
+    "commit": {
+      "date": "2026-09-03T11:44:13.000Z",
+      "message": "feat: interfaz grafica conectada con la clase Tennis",
+      "url": "https://github.com/javiergomezucb/tarea-5-tenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 65,
+      "additions": 43,
+      "deletions": 22,
       "date": "2026-09-03"
     },
     "coverage": 100,
